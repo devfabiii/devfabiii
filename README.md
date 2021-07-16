@@ -19,7 +19,7 @@
 
 **Meus interesses pessoais**
 
-- Estou estudando Cyber Security e Data Science com **Python**, **MongoDB**, **Arquitetura de dados**, **Docker**, **MySQL**, **PostgreSQL**, **SQL*,* **Cloud**, **AWS**;
+- Estou estudando Cyber Security e Data Science com **Python**, **MongoDB**, **Arquitetura de dados**, **Docker**, **MySQL**, **PostgreSQL**, **SQL**, **Cloud**, **AWS**;
 -  Sempre estudando e evoluindo meus conhecimentos;
 -  Meus hobbies são:
     - Estudar sobre hacking e redes;
