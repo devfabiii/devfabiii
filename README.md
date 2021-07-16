@@ -19,11 +19,11 @@
 
 **Meus interesses pessoais**
 
-- Estou estudando Cyber Security e Data Science com **Python**, **MongoDB**, **Arquitetura de dados**, **Docker**, **MySQL** **PostgreSQL** **SQL** **Cloud**, **AWS**;
+- Estou estudando Cyber Security e Data Science com **Python**, **MongoDB**, **Arquitetura de dados**, **Docker**, **MySQL**, **PostgreSQL**, **SQL*,* **Cloud**, **AWS**;
 -  Sempre estudando e evoluindo meus conhecimentos;
 -  Meus hobbies são:
     - Estudar sobre hacking e redes;
-    - Assistir series;]
+    - Assistir series;
     - Jogar MMORPG;
 -  Fique a vontade para me chamar e ficarei muito feliz no que poder ajuda-lo;
 -  Se quiser pode enviar um e-mail para: dev_fabiii@hotmail.com
