@@ -7,10 +7,10 @@
   Me chamo <b> Fabiana Correia</b>
 </p>
 <p align="left">
-  Estudante de <b> Cyber Security </b>
+  Estudante de <b> Ciência de dados </b>
 </p>
 <p align="left">
-  Apaixonada por <b>Data Science</b> e <b>Cyber Security</b>
+  Apaixonada por <b>Data Science</b> 
 </p>
 
 <hr/>
@@ -19,13 +19,12 @@
 
 **Meus interesses pessoais**
 
-- Estou estudando Cyber Security e Data Science com **Python**, **MongoDB**, **Arquitetura de dados**, **Docker**, **MySQL**, **PostgreSQL**, **SQL**, **Cloud**, **AWS**;
+- Estou estudando Data Science com **Python**, **MongoDB**, **Arquitetura de dados**, **Docker**, **MySQL**, **PostgreSQL**, **SQL**
 -  Sempre estudando e evoluindo meus conhecimentos;
 -  Meus hobbies são:
-    - Estudar sobre hacking e redes;
+    - Estudar analise da dados;
     - Assistir series;
     - Jogar MMORPG;
--  Fique a vontade para me chamar e ficarei muito feliz no que poder ajuda-lo;
 -  Se quiser pode enviar um e-mail para: dev_fabiii@hotmail.com
 
 <p>
