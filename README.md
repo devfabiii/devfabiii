@@ -10,7 +10,7 @@
   Estudante de <b> Ciência de dados </b>
 </p>
 <p align="left">
-  Apaixonada por <b>Data Science</b> 
+  Apaixonada por <b>Tecnologia</b> 
 </p>
 
 <hr/>
@@ -19,13 +19,13 @@
 
 **Meus interesses pessoais**
 
-- Estou estudando Data Science com **Python**, **MongoDB**, **Arquitetura de dados**, **Docker**, **MySQL**, **PostgreSQL**, **SQL**
+- **Python**,**Java**, **C#**,**Banco de dados**
 -  Sempre estudando e evoluindo meus conhecimentos;
 -  Meus hobbies são:
     - Estudar analise da dados;
     - Assistir series;
     - Jogar MMORPG;
--  Se quiser pode enviar um e-mail para: dev_fabiii@hotmail.com
+
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfabiii&layout=compact&theme=graywhite&title_color=268bd2" alt="Fabiana Correia" />
